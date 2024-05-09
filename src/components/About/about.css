@@ -1,0 +1,33 @@
+.about-me-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .about-me-content {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .about-me-content h1 {
+    color: #333;
+  }
+  
+  .about-me-content h2 {
+    color: #666;
+  }
+  
+  .about-me-content ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .about-me-content a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .about-me-content a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,12 @@
+.dot-status{
+    height: 0.5rem;
+    width: 0.5rem;
+    margin-right: 0.3rem;
+    border-radius: 30%;
+    align-self: center;
+}
+
+.col-md-8{
+    background-color: rgb(198, 198, 198);
+    
+}
